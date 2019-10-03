@@ -2,13 +2,13 @@
 package escola;
 
 
-public class Main {
+public class Principal {
 
     
-    public static void main(String[] args) {
-        Escola LuizAbel = new Escola();
-        LuizAbel.setNome("Luiz Abel");
-        LuizAbel.turma
+    public static void Principal(String[] args) {
+        Escola EscolaTécnicaDimensao = new Escola();
+        EscolaTécnicaDimensao.setNome("EscolaTécnicaDimensao");
+        EscolaTécnicaDimensao.turma
         
         Turma NonoA = new Turma();
         NonoA.setNomeTurma("9A");
